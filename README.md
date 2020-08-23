@@ -8,3 +8,8 @@ I achieved accuracy of around 81.60% using Stochastic Gradient Descent Classifie
 The data you can pull from my git or can download from here:
 
 https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/#ProblemStatement
+
+
+Checkout my youtube video: 
+
+https://www.youtube.com/watch?v=_bJP5mZB8tw&t=1s
